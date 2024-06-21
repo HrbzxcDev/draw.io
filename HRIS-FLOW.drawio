@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T03:20:54.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9t5THvoIlycr-B2h2d8q" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T03:29:30.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lMmar7_vaCkKZU4oY26y" version="24.5.5" type="github">
   <diagram name="Page-1" id="Z2VON4-MzIzl6sSVADp_">
-    <mxGraphModel dx="1886" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FDAjhT9uTbYYxRGxeeJl-156" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="700" width="1100" height="260" as="geometry" />
+          <mxGeometry x="1240" y="700" width="1240" height="300" as="geometry" />
         </mxCell>
         <mxCell id="FDAjhT9uTbYYxRGxeeJl-130" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1240" y="22" width="1040" height="490" as="geometry" />
@@ -307,7 +307,7 @@
           <mxGeometry x="1965" y="805" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FDAjhT9uTbYYxRGxeeJl-148" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Print Payslip&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="2155" y="805" width="140" height="70" as="geometry" />
+          <mxGeometry x="2280" y="805" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FDAjhT9uTbYYxRGxeeJl-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="FDAjhT9uTbYYxRGxeeJl-150" target="FDAjhT9uTbYYxRGxeeJl-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -315,8 +315,8 @@
         <mxCell id="FDAjhT9uTbYYxRGxeeJl-150" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; font-size: 12px;&quot;&gt;Shifts Schedule&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1400" y="805" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FDAjhT9uTbYYxRGxeeJl-157" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;HRIS FLOW&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="720" width="100" height="30" as="geometry" />
+        <mxCell id="FDAjhT9uTbYYxRGxeeJl-157" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;PAYROLL PROCESSING FLOW&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="720" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
