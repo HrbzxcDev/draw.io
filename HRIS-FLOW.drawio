@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T04:18:47.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="U_tOqzjp-lUGfROlB4Ts" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="Z2VON4-MzIzl6sSVADp_">
-    <mxGraphModel dx="1301" dy="560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4031" y="1965" width="554" height="409" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;shape=flexArrow;shadow=1;startArrow=block;" edge="1" parent="1" source="IyKWrNu8vXF1nE0TobSq-22" target="IyKWrNu8vXF1nE0TobSq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3722" y="1309.88" width="415" height="436" as="geometry" />
+        </mxCell>
         <mxCell id="tVXsH3jOqr4XEqMRYQ2o-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4272.5" y="831" width="798.5" height="198" as="geometry" />
         </mxCell>
@@ -779,6 +788,83 @@
         </mxCell>
         <mxCell id="tVXsH3jOqr4XEqMRYQ2o-82" value="PayMaster Approver" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="4418" y="865" width="127" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-7" value="Leave Inquiry / Approval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3772" y="1459.2500000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-8" value="Overtime / Approval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3772" y="1554.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-10" value="Time-In/Time-Out" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3772" y="1368.65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IyKWrNu8vXF1nE0TobSq-13" target="IyKWrNu8vXF1nE0TobSq-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4448" y="2224.15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IyKWrNu8vXF1nE0TobSq-13" target="IyKWrNu8vXF1nE0TobSq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-13" value="NGROK &lt;br&gt;AGGREGATOR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4219" y="1929" width="184" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-14" value="HRIS APPLICATION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4096" y="2218" width="140" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.034;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IyKWrNu8vXF1nE0TobSq-14" target="IyKWrNu8vXF1nE0TobSq-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4305" y="2290" as="sourcePoint" />
+            <mxPoint x="4409" y="2267" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4460" y="1298" width="382" height="445" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-24" value="Timekeeping" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4517" y="1528" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-25" value="Attendance Report (Time Logs In/Out)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4517" y="1614" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-26" value="Shifts Assignment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4517" y="1442.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-27" value="Report / Logs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4517" y="1357" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;OnTrace&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3728" y="1314.88" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;AnyTrace&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4467" y="1303" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-38" value="Definitions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3939" y="1368.65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-39" value="Payroll Information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3939" y="1457" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-41" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MariaDB_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="4403" y="2195" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4125" y="1366.25" width="350" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-40" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MariaDB_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="4255" y="1384.25" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-46" value="Time Logs (In / Out)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4675" y="1357" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-47" value="Trip Logs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4675" y="1442.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-48" value="Recorded Location List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4675" y="1530.15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyKWrNu8vXF1nE0TobSq-49" value="Export Time Logs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4675" y="1614" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
