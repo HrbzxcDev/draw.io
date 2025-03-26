@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="Z2VON4-MzIzl6sSVADp_">
-    <mxGraphModel dx="1674" dy="778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jhDY1Rh_Qy_EP_5yMH99-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3625" y="1276" width="1301" height="541" as="geometry" />
+        </mxCell>
         <mxCell id="IyKWrNu8vXF1nE0TobSq-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4031" y="1965" width="554" height="409" as="geometry" />
         </mxCell>
@@ -884,7 +887,7 @@
         <mxCell id="7BKr-VcBrY1hxmvU7_oQ-6" value="Time-In/Time-Out" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5377" y="1368.65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXuttkpXpt1wdtway3xi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7BKr-VcBrY1hxmvU7_oQ-9" target="7BKr-VcBrY1hxmvU7_oQ-10">
+        <mxCell id="fXuttkpXpt1wdtway3xi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7BKr-VcBrY1hxmvU7_oQ-9" target="7BKr-VcBrY1hxmvU7_oQ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7BKr-VcBrY1hxmvU7_oQ-9" value="NGROK&lt;div&gt;API GATEWAY&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -970,6 +973,18 @@
         </mxCell>
         <mxCell id="7BKr-VcBrY1hxmvU7_oQ-38" value="Shifts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5544" y="1554" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhDY1Rh_Qy_EP_5yMH99-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Company 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4137" y="1535.5" width="146.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jhDY1Rh_Qy_EP_5yMH99-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Company 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4287.5" y="1535.5" width="146.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jhDY1Rh_Qy_EP_5yMH99-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Company 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4159.5" y="2101.5" width="146.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jhDY1Rh_Qy_EP_5yMH99-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Company 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4310" y="2101.5" width="146.5" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
