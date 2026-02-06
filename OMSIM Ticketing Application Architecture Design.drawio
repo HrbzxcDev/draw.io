@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7">
   <diagram name="Page-1" id="ntr65E4ppEIqLsPLua8J">
-    <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,6 +170,24 @@
         </mxCell>
         <mxCell id="owq-yaHLOdYXDbUBeBlw-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;https://tickets.hrbzxcdev.site/api&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="150" x="465" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="at_iTZ1K0VeCZrRyidu7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SSE for real-time ticket change notifications" vertex="1">
+          <mxGeometry height="30" width="150" x="550" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="at_iTZ1K0VeCZrRyidu7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Resend&lt;/b&gt;&lt;br&gt;&amp;nbsp;- Send ticket notifications" vertex="1">
+          <mxGeometry height="30" width="240" x="418.76" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="at_iTZ1K0VeCZrRyidu7-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Object Storage (S3&lt;/b&gt;) &lt;br&gt;- Storage for ticket attachments and images&lt;br&gt;&lt;br&gt;&lt;b&gt;File uploads&lt;/b&gt;&lt;br&gt;&amp;nbsp;-S3-compatible storage via AWS SDK (for attachments/images)." vertex="1">
+          <mxGeometry height="29" width="180" x="1320" y="179" as="geometry" />
+        </mxCell>
+        <mxCell id="at_iTZ1K0VeCZrRyidu7-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Better Auth Secondary Storage&lt;/b&gt;&lt;br&gt;- Store sessions / rate-limit data to offload Neon Database&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Ticket Cache&lt;br&gt;&lt;/b&gt;- Cache Single Ticket by ID&lt;br&gt;- Cache ticket metadata (statuses, clients, severity levels, etc.)&lt;br&gt;- Invalidation on ticket edit." vertex="1">
+          <mxGeometry height="170" width="210" x="1310" y="578.75" as="geometry" />
+        </mxCell>
+        <mxCell id="at_iTZ1K0VeCZrRyidu7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Primary&amp;nbsp; Database&lt;br&gt;- &lt;/b&gt;Handling Main Tables&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="1345" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="at_iTZ1K0VeCZrRyidu7-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p dir=&quot;ltr&quot;&gt;&lt;b&gt;Better Auth Surface&lt;/b&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;- Session-based via Better Auth (cookie/session).&lt;/p&gt;&lt;p dir=&quot;ltr&quot;&gt;- API‑key based for integrations (API keys table + middleware).&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="231.25" x="151.87" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
