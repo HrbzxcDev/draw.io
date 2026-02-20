@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Page-1" id="ntr65E4ppEIqLsPLua8J">
-    <mxGraphModel dx="2734" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2700" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,6 +71,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owq-yaHLOdYXDbUBeBlw-91" edge="1" parent="1" source="owq-yaHLOdYXDbUBeBlw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="owq-yaHLOdYXDbUBeBlw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zio9ZnHds5lYsZtydIJC-1" edge="1" parent="1" source="owq-yaHLOdYXDbUBeBlw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="owq-yaHLOdYXDbUBeBlw-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owq-yaHLOdYXDbUBeBlw-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -154,7 +157,7 @@
         <mxCell id="at_iTZ1K0VeCZrRyidu7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SSE for real-time ticket change notifications" vertex="1">
           <mxGeometry height="30" width="150" x="550" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="at_iTZ1K0VeCZrRyidu7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Resend&lt;/b&gt;&lt;br&gt;&amp;nbsp;- Send ticket notifications" vertex="1">
+        <mxCell id="at_iTZ1K0VeCZrRyidu7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Resend&lt;/b&gt;&lt;br&gt;&amp;nbsp;- Send ticket email notifications" vertex="1">
           <mxGeometry height="30" width="240" x="410" y="730" as="geometry" />
         </mxCell>
         <mxCell id="at_iTZ1K0VeCZrRyidu7-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Object Storage (S3&lt;/b&gt;) &lt;br&gt;- Storage for ticket attachments and images&lt;br&gt;&lt;br&gt;&lt;b&gt;File uploads&lt;/b&gt;&lt;br&gt;&amp;nbsp;-S3-compatible storage via AWS SDK (for attachments/images)." vertex="1">
