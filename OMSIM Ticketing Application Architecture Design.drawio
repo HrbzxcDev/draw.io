@@ -173,7 +173,7 @@
           <mxGeometry width="143.12" x="39.379999999999995" y="300" as="geometry" />
         </mxCell>
         <mxCell id="hHo9sMKOG4SMjP4J30pY-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="171.25" width="430" x="-60" y="578.75" as="geometry" />
+          <mxGeometry height="201.25" width="430" x="-60" y="578.75" as="geometry" />
         </mxCell>
         <mxCell id="hHo9sMKOG4SMjP4J30pY-14" edge="1" parent="1" source="hHo9sMKOG4SMjP4J30pY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="owq-yaHLOdYXDbUBeBlw-58">
           <mxGeometry relative="1" as="geometry" />
@@ -221,6 +221,9 @@
         </mxCell>
         <mxCell id="hHo9sMKOG4SMjP4J30pY-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Better Auth Secondary Storage&lt;/b&gt;&lt;br&gt;- Store sessions / rate-limit data to offload Neon Database&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Ticket Cache&lt;br&gt;&lt;/b&gt;- Cache Single Ticket by ID&lt;br&gt;- Cache ticket metadata (statuses, clients, severity levels, etc.)&lt;br&gt;- Invalidation on ticket edit." vertex="1">
           <mxGeometry height="170" width="210" x="-279.75" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="idNUzLBMBrg12fcNU3I0-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Primary&amp;nbsp; Database&lt;br&gt;- &lt;/b&gt;Handling Main Tables&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="197.5" y="735" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
