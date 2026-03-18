@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1NenRn6hQS5sja15hcev-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="154.5" width="150.5" x="3795" y="89.25" as="geometry" />
+          <mxGeometry height="154.5" width="150.5" x="3795" y="87.25" as="geometry" />
         </mxCell>
         <mxCell id="Jtnqyxlyjqzfef7gMqjF-161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="360" width="540" x="2615" y="85" as="geometry" />
@@ -584,10 +584,10 @@
           <mxGeometry height="30" width="260" x="3311" y="10" as="geometry" />
         </mxCell>
         <mxCell id="1NenRn6hQS5sja15hcev-108" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MariaDB_Server.svg;" value="" vertex="1">
-          <mxGeometry height="70.5" width="52.88" x="3843.81" y="118.25" as="geometry" />
+          <mxGeometry height="70.5" width="52.88" x="3843.81" y="116.25" as="geometry" />
         </mxCell>
         <mxCell id="1NenRn6hQS5sja15hcev-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MariaDB" vertex="1">
-          <mxGeometry height="30" width="60" x="3840.25" y="200.75" as="geometry" />
+          <mxGeometry height="30" width="60" x="3840.25" y="198.75" as="geometry" />
         </mxCell>
         <mxCell id="1NenRn6hQS5sja15hcev-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="85.17" width="137.25" x="3613.5" y="341.91999999999996" as="geometry" />
@@ -608,7 +608,7 @@
           <mxGeometry height="80.33" width="120.5" x="3620.75" y="343.25999999999993" as="geometry" />
         </mxCell>
         <mxCell id="1NenRn6hQS5sja15hcev-137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="120.75" width="441" x="3324.5" y="107.12" as="geometry" />
+          <mxGeometry height="127.87" width="441" x="3324.5" y="100" as="geometry" />
         </mxCell>
         <mxCell id="1NenRn6hQS5sja15hcev-160" edge="1" parent="1" source="1NenRn6hQS5sja15hcev-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1NenRn6hQS5sja15hcev-157">
           <mxGeometry relative="1" as="geometry" />
@@ -688,7 +688,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1NenRn6hQS5sja15hcev-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;http//:IPSERVER:3001&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="147.34" x="4021.21" y="170.75" as="geometry" />
+          <mxGeometry height="30" width="147.34" x="3335.5" y="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
